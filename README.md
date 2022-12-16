@@ -1,4 +1,4 @@
-# week-1-challenge
+# Horiseon Refactoring
 
 * Refactored Horiseon site
 * HTML classes were consolidated
